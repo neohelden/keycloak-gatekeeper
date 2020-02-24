@@ -67,7 +67,7 @@ const (
 	accessCookie       = "kc-access"
 	refreshCookie      = "kc-state"
 	requestURICookie   = "request_uri"
-	requestStateCookie = "OAuth_Token_Request_State"
+	requestStateCookie = "NIAM_OAuth_Token_Request_State"
 	unsecureScheme     = "http"
 	secureScheme       = "https"
 	anyMethod          = "ANY"
